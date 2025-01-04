@@ -1,0 +1,8 @@
+crewai
+langchain_google_genai  #google gemini models
+load_dotenv
+crewai_tools
+openai
+langchain_openai
+streamlit
+reportlab
