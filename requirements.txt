@@ -7,3 +7,4 @@ langchain_openai
 streamlit
 reportlab
 chromadb
+pysqlite3-binary
